@@ -95,7 +95,11 @@ body {
 }
 
 a {
-  color: #4183c4;
+  color: #0969da;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 h1,
 h2,
