@@ -1,4 +1,4 @@
-# Super Resume
+# Super Resume Theme
 
 ## 简介
 
